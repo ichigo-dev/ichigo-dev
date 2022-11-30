@@ -15,83 +15,32 @@
 
 ## Languages and Tools:
 
+[![MySkills](https://skillicons.dev/icons?i=vim,neovim,git,linux)](https://skillicons.dev)
+
+
 ### Frontend
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wasm)](https://skillicons.dev)
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
 
 ### Backend
 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-</a>
+[![Backend](https://skillicons.dev/icons?i=rust,php,wordpress,cpp,mysql)](https://skillicons.dev)
 
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
 
 ### Infrastructure
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx)](https://skillicons.dev)
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
 
 ### AI/ML
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
+[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](https://skillicons.dev)
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</a>
 
 ### Interested
 
-<a href="https://circleci.com" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
-
-<a href="https://golang.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
+[![Interested](https://skillicons.dev/icons?i=flutter,dart,go,ts,electron)](https://skillicons.dev)
 
 - [Solid JS](https://www.solidjs.com/)
 - [Tokio](https://tokio.rs)
