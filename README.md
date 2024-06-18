@@ -20,32 +20,35 @@
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,jquery,wasm)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,wasm)](https://skillicons.dev)
+
+- [Sycamore](https://sycamore-rs.netlify.app)
 
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=rust,php,wordpress,cpp,mysql)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=rust,go,ts,php,wordpress,cpp,mysql)](https://skillicons.dev)
 
+- [Tokio](https://tokio.rs)
+- [Axum](https://github.com/tokio-rs/axum)
 
 ### Infrastructure
 
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx,tf)](https://skillicons.dev)
 
 
 ### AI/ML
+
+Just a little...
 
 [![AI/ML](https://skillicons.dev/icons?i=py,pytorch,tensorflow)](https://skillicons.dev)
 
 
 ### Interested
 
-[![Interested](https://skillicons.dev/icons?i=flutter,dart,go,ts,electron)](https://skillicons.dev)
+[![Interested](https://skillicons.dev/icons?i=flutter,dart,electron)](https://skillicons.dev)
 
 - [Solid JS](https://www.solidjs.com/)
-- [Tokio](https://tokio.rs)
-- [Axum](https://github.com/tokio-rs/axum)
-- [Sycamore](https://sycamore-rs.netlify.app)
 
 ---
 
