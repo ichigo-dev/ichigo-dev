@@ -34,7 +34,7 @@
 
 ### Infrastructure
 
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx,tf)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,nginx,terraform)](https://skillicons.dev)
 
 
 ### AI/ML
